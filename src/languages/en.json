@@ -1,0 +1,130 @@
+{
+  "navbar": {
+    "link1": "Home.",
+    "link2": "About me.",
+    "link3": "Experience.",
+    "link4": "Projects.",
+    "link5": "Education.",
+    "link6": "Contact."
+  },
+  "hero": {
+    "presentation": "Hello, <span className='dark:text-black text-grey bg-gradient-to-r dark:from-violet dark:to-yellow from-violet to-orange text-dark-gradient-title w-fit px-1 rounded'>I’m Ailén</span>, Front End Developer based in Buenos Aires.",
+    "description": "An <strong>Industrial Designer</strong>, with a certification in <strong>User Experience and Interfaces</strong> and, currently, I am focused on developing skills as a <strong>Front End Development</strong>. I also have knowledge and practices in <strong>Graphic Design</strong>.",
+    "button-contact": "Get in touch",
+    "button-projects": "View my projects"
+  },
+  "about": {
+    "title": "About Me.",
+    "fragment1": "My transition from industrial design to web development marked an exciting and unique shift in my career. My background in industrial design provided me with unique skills in conceptualization, creative thinking, and problem-solving. These abilities, combined with my passion for learning and determination, propelled me into the world of web development.",
+    "fragment2": "Now, as an aspiring Front End Developer, my design-oriented approach, meticulous attention to detail, and ability to grasp user needs become a competitive edge in the IT sector.",
+    "fragment3": "I'm eager to apply my blend of skills and experience to web projects that are not only functional but also visually appealing and user-centered.",
+    "figcaption": "my work place"
+  },
+  "phrase": {
+    "phrase": "'Don't be afraid to start over, you might like your new story better.'"
+  },
+  "experience": {
+    "title": "Experience.",
+    "description": "I had the opportunity to work on various projects, including: <strong>3D rendering, rebranding, illustrations and content design for social networks</strong>. I have worked both on projects from scratch and on projects already started, using different tools and programs to carry out each project successfully.",
+    "cta": "I invite you to see <span className='dark:text-yellow text-orange p-1 rounded-lg'>my work</span> on Behance"
+  },
+  "work-1": {
+    "place": "Jocco Design",
+    "work-title": "Environment Rendering",
+    "type": "Industrial Design",
+    "link": "View More <ArrowForwardRoundedIcon />"
+  },
+  "work-2": {
+    "place": "Freelance",
+    "work-title": "T-shirt Print Design",
+    "type": "Digital Design",
+    "link": "Ver Más <ArrowForwardRoundedIcon />"
+  },
+  "work-3": {
+    "place": "Jocco Design",
+    "work-title": "Social Networks",
+    "type": "Graphic Design",
+    "link": "Ver Más <ArrowForwardRoundedIcon />"
+  },
+  "projects": {
+    "title": "Projects.",
+    "description": "During my career in different trainings, I focused on the development of the <strong>Front End</strong>, working on various projects. Throughout the development of each one of them, I gained experience both in the implementation of pure code solutions and in the use of frameworks and templates to create interactive and attractive interfaces.",
+    "cta": "See all <span className='dark:text-yellow text-orange p-1 rounded-lg'>my projects</span> on GitHub."
+  },
+  "project-1": {
+    "institution": "Utn - frre",
+    "project-title": "SPA | Pawhost"
+  },
+  "project-2": {
+    "institution": "Codo a Codo",
+    "project-title": "SPA | Humaya"
+  },
+  "project-3": {
+    "institution": "Codo a Codo",
+    "project-title": "CosmoTask"
+  },
+  "project-4": {
+    "institution": "Frontend Mentor",
+    "project-title": "Landing Page"
+  },
+  "education": {
+    "title": "Education.",
+    "description": "I have invested in my professional growth and development through a series of specialized courses. These formative experiences have allowed me to acquire new skills and knowledge in key areas such as <strong>graphic design, web programming and the use of development tools.</strong>"
+  },
+  "course-1": {
+    "place": "NATIONAL UNIVERSITY OF LA PLATA",
+    "title": "Industrial Designer Degree"
+  },
+  "course-2": {
+    "place": "E - LEARNING UTN FRRE",
+    "title": "SolidWorks 3D Modeling Diploma"
+  },
+  "course-3": {
+    "place": "E - LEARNING UTN BA",
+    "title": "UX & IxD Expert Course"
+  },
+  "course-4": {
+    "place": "FREECODECAMP",
+    "title": "Responsive Web Design Certification"
+  },
+  "course-5": {
+    "place": "FREECODECAMP",
+    "title": "JavaScript Algorithms and Data Structures Certification"
+  },
+  "course-6": {
+    "place": "E - LEARNING UTN FRRE",
+    "title": "Full Stack Developer (PHP y SQL) Diploma"
+  },
+  "course-7": {
+    "place": "CODO A CODO",
+    "title": "Web Development Course"
+  },
+  "course-8": {
+    "place": "CODO A CODO",
+    "title": "Development with React framework Course"
+  },
+  "course-9": {
+    "place": "GLOBANT UNIVERSITY - EGG COOPERATION",
+    "title": "Full Stack Developer (Java) Certification"
+  },
+  "course-10": {
+    "place": "FREECODECAMP",
+    "title": "Front End Development Libraries Certification"
+  },
+  "tools": {
+    "title": "Languages ​​and tools that I master."
+  },
+  "contact": {
+    "title": "Contact.",
+    "subtitle": "Follow Me.",
+    "description": "I'm looking for opportunities. I'm excited to join a committed team."
+  },
+  "resume": {
+    "title": "Download my resume.",
+    "button-resume1": "Spanish",
+    "button-resume2": "English"
+  },
+  "footer": {
+    "author": "Site designed and coded with <FavoriteRoundedIcon/> by <a href='/' target='_black' className='dark:hover:text-yellow hover:text-orange transition-colors'>Ailén Glassmam</a>"
+  }
+}
